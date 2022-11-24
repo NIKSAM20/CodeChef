@@ -1,3 +1,4 @@
+import java.util.*;
 public class SumFirstLastDigit {
     public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
@@ -14,8 +15,8 @@ public class SumFirstLastDigit {
 		    }
 		    sum=sum+rem;
 		    System.out.println(sum);
-		    t--;    
+		    t--;  
+			sc.close();
 		}
-		sc.lose();
 	}
 }
