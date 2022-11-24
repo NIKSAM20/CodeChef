@@ -1,9 +1,9 @@
-public class VAlidTriangles {
+import java.util.*;
+public class ValidTriangles {
     public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		int n,t,rem=0;
 		
-		t=sc.nextInt();
+		int t=sc.nextInt();
 		while(t!=0){
 		    int a=sc.nextInt();
 		    int b=sc.nextInt();
@@ -16,7 +16,7 @@ public class VAlidTriangles {
 		        System.out.println("YES");
 		    }
 		    t--;    
+			sc.close();
 		}
-		sc.close();
 	}
 }
