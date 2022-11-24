@@ -13,6 +13,6 @@ class ATM{
 		else{
 		    System.out.println(y);
 		}
+        sc.close();
 	}
-    sc.close();
 }
