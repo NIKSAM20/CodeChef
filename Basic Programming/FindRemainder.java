@@ -14,5 +14,5 @@ public class FindRemainder
             t--;
 		}
         sc.close();
-	} 
+	}
 }
