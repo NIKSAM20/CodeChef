@@ -16,7 +16,7 @@ public class BestofTwo{
 		        System.out.println(y);
 		    }
 		    n--;
+			sc.close();
 		}
-        sc.close();
 	}
 }
