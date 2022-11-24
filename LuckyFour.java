@@ -1,3 +1,4 @@
+import java.util.*;
 public class LuckyFour {
     public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
@@ -15,8 +16,8 @@ public class LuckyFour {
 		        n=n/10;
 		    }
 		    System.out.println(ctr);
-		    t--;    
+		    t--;
+			sc.close();  
 		}
-		sc.close();
 	}
 }
