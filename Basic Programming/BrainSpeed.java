@@ -1,6 +1,5 @@
 import java.util.*;
-public class BrainSpeed
-{
+public class BrainSpeed{
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		
