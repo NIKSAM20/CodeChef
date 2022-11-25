@@ -6,7 +6,6 @@ public class ReverseNumbers {
 		int t=sc.nextInt();
 		while(t>0){
 		    int n=sc.nextInt();
-		    
 		    int rev=0;
 		    while(n>0){
 		        int rem=n%10;
