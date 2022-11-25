@@ -1,7 +1,6 @@
 import java.util.*;
 
-public class AddNumbers
-{
+public class AddNumbers{
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		int n=sc.nextInt();
