@@ -14,5 +14,5 @@ class ATM{
 		    System.out.println(y);
 		}
         sc.close();
-	}
+	} 
 }
