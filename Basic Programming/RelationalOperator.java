@@ -20,7 +20,7 @@ public class RelationalOperator
 		        System.out.println(">");
 		    }
 		    n--;
-		}    
+		}
         sc.close();
 	}
 }
