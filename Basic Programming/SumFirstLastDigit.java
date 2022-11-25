@@ -16,7 +16,7 @@ public class SumFirstLastDigit {
 		    sum=sum+rem;
 		    System.out.println(sum);
 		    t--;  
-			sc.close();
 		}
+		sc.close();
 	}
 }
