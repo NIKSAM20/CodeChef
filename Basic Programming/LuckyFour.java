@@ -17,7 +17,7 @@ public class LuckyFour {
 		    }
 		    System.out.println(ctr);
 		    t--;
-			sc.close();  
 		}
+		sc.close();
 	}
 }
