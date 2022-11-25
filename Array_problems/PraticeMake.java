@@ -1,10 +1,10 @@
 import java.util.*;
 
 public class PraticeMake {
-    public static void main (String[] args)
-	{
-		int ctr=0, i;
+    public static void main (String[] args){
+		
 		Scanner sc= new Scanner(System.in);
+		int ctr=0, i;
 		int arr[]= new int[4];
 
 		for(i=0; i<4; i++){
