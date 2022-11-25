@@ -15,8 +15,8 @@ public class ValidTriangles {
 		    else{
 		        System.out.println("YES");
 		    }
-		    t--;    
-			sc.close();
+		    t--;
 		}
+		sc.close();
 	}
 }
