@@ -18,8 +18,8 @@ public class IdAndShip {
 		    
 		    else if(c=='F' || c=='f')
 		    System.out.println("Frigate");
-		t--;    
-        sc.close();
+			t--;
 		}
+		sc.close();
 	}
 }
