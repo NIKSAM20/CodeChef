@@ -9,7 +9,7 @@ public class TotalPages {
 		    int m=sc.nextInt();
 		    int n=sc.nextInt();
 		   
-		    System.out.println(x*y);
+		    System.out.println(m*n);
 		    t--;
 		}
 	}
