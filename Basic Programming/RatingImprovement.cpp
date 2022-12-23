@@ -7,7 +7,7 @@ int main() {
 	cin >>t;
 	while(t>0){
 	    cin >>x >>y;
-	    if (y>x && y<=x+200){
+	    if (y>=x && y<=(x+200)){
 	        cout <<"YES" <<"\n";
 	    }
 	    else{
