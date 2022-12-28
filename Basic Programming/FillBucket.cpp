@@ -8,7 +8,7 @@ int main() {
 	    cin >>k >>x;
 	    cout <<k-x <<"\n";
 	    
-	    t--;
+	    t--; 
 	}
 	return 0;
 }
