@@ -6,13 +6,13 @@ int main() {
 	cin >>t;
 	while(t>0){
 	    cin >>a >>b >>c;
-	    if((a+b)2<35){
+	    if(((a+b)/2)<35){
 	        cout <<"Fail" <<"\n";
 	    }
-        else if((b+c)2<35){
+        else if(((b+c)/2)<35){
 	        cout <<"Fail" <<"\n";
 	    }
-	    else if((a+c)2<35){
+	    else if(((a+c)/2)<35){
 	        cout <<"Fail" <<"\n";
 	    }
 	    else{
