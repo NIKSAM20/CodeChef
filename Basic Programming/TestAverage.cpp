@@ -6,12 +6,19 @@ int main() {
 	cin >>t;
 	while(t>0){
 	    cin >>a >>b >>c;
-	    if ((a+b+c)<35){
-	        cout <<"fail";
+	    if(a+b)2<35{
+	        cout <<"Fail" <<"\n";
+	    }
+        else if(b+c)2<35{
+	        cout <<"Fail" <<"\n";
+	    }
+	    else if(a+c)2<35{
+	        cout <<"Fail" <<"\n";
 	    }
 	    else{
-	        cout <<"pass";
+	        cout <<"Pass" <<"\n";
 	    }
+	        
 	    t--;
 	}
 	return 0;
